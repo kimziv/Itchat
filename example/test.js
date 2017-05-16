@@ -1,3 +1,4 @@
+"use strict"; 
 const Itchat = require('../index')
 const request = require('superagent')
 
