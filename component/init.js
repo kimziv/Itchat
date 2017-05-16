@@ -1,3 +1,4 @@
+"use strict";
 const init = require('../lib/init')
 module.exports = function () {
   this.on('getAuth', (err, obj) => {

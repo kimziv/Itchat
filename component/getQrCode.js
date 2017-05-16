@@ -1,3 +1,4 @@
+"use strict";
 let logger = require('../lib/log')
 const getQrCode = require('../lib/getQrCode')
 module.exports = function (options) {

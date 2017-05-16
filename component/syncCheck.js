@@ -1,3 +1,4 @@
+"use strict";
 const syncCheck = require('../lib/syncCheck')
 let logger = require('../lib/log')
 module.exports = function () {

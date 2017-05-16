@@ -1,3 +1,4 @@
+"use strict";
 let logger = require('../lib/log')
 const syncCheck = require('../lib/syncCheck')
 const getMesg = require('../lib/getMesg')

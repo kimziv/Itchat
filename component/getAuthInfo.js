@@ -1,3 +1,4 @@
+"use strict";
 let logger = require('../lib/log')
 const getAuthInfo = require('../lib/getAuthInfo')
 let globalVal = require('../lib/global')

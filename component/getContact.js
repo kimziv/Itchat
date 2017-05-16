@@ -1,3 +1,4 @@
+"use strict";
 let logger = require('../lib/log')
 const getContact = require('../lib/getContact')
 

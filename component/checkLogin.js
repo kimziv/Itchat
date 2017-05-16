@@ -1,3 +1,4 @@
+"use strict";
 const checkLogin = require('../lib/checkLogin')
 let logger = require('../lib/log')
 module.exports = function () {

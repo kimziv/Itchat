@@ -1,3 +1,4 @@
+"use strict";
 const EventEmitter = require('events')
 const login = require('./component/login')
 const start = require('./component/start')

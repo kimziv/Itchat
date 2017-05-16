@@ -1,3 +1,4 @@
+"use strict";
 let globalVal = require('../lib/global')
 const merge = require('../lib/merge')
 const getGlobal = require('../lib/getGlobal')

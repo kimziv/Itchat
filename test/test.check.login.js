@@ -1,3 +1,4 @@
+"use strict";
 const getGlobal = require('../lib/getGlobal')
 const merge = require('../lib/merge')
 const assert = require('assert')

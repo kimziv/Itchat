@@ -1,3 +1,4 @@
+"use strict";
 let logger = require('../lib/log')
 const getMesg = require('../lib/getMesg')
 module.exports = function () {

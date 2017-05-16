@@ -1,3 +1,4 @@
+"use strict";
 const getUuid = require('../lib/getUuid')
 let logger = require('../lib/log')
 module.exports = function () {
